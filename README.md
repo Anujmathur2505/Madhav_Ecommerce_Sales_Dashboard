@@ -1,5 +1,6 @@
 # Madhav_Ecommerce_Sales_Dashboard
 This project presents an in-depth analysis of an ecommerce platform's sales data using Power BI. The dashboard provides key insights into sales performance across various dimensions, enabling effective decision-making.
+
 Key Features:
 1. Slicers:
    
