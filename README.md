@@ -30,6 +30,7 @@ Key Features:
      Quantity by Category: View the distribution of sales quantity across product categories.
    
      Quantity by Payment Mode: Analyze the number of orders processed through different payment methods.
+   
 Technologies Used:
 1. Power BI
 2. DAX for calculated measures
